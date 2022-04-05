@@ -1,5 +1,7 @@
 # customer-form
 
+## https://insanus8.github.io/customer-form/
+
 ## Project setup
 ```
 npm install
